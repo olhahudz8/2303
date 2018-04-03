@@ -1,0 +1,13 @@
+#calculator .line input[type="text"] {
+	width:420px;
+	height: 50px;
+	margin:0 1px;
+	text-align: right;
+	font-size: 30px;
+}
+
+#calculator .line input[type="button"] {
+	width: 80px;
+	height: 50px;
+	margin: 1px;
+}
